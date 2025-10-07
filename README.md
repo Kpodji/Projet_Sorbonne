@@ -11,3 +11,4 @@ Placez vos fichiers dans `data/`. Voir l'onglet *Aide* de l'app.
 ## Déployer (Streamlit Community Cloud)
 1. Créez un dépôt GitHub, poussez ce dossier.
 2. Sur https://share.streamlit.io : New app → repo → `app.py`.
+# Projet_Sorbonne
